@@ -62,7 +62,7 @@ That is what makes the exit boring. You clone the repository, point a new instan
 - [`docs/02-approval-models.md`](docs/02-approval-models.md): how Kortix, CellCog, Viktor and Lindy gate a risky action, with the exact wording each vendor publishes.
 - [`docs/03-migration-checklist.md`](docs/03-migration-checklist.md): what exports, what has to be rewritten, and a step list a team can run in two weeks.
 
-The campaign page at [opensourceaiemployee.com](https://opensourceaiemployee.com) covers the same decision for a buyer who is not ready to read a manifest. [Kortix](https://kortix.com) has the product pages behind every claim above.
+The campaign page at [opensourceaiemployee.com](https://opensourceaiemployee.com) covers the same decision for a buyer who is not ready to read a manifest. The same comparison, vendor by vendor and with each starting price, is on the [AI employee alternatives page](https://opensourceaiemployee.com/ai-employee-alternatives). [Kortix](https://kortix.com) has the product pages behind every claim above.
 
 ## Sources
 
